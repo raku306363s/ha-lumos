@@ -4,9 +4,9 @@
   "codeowners": ["@raku306363s"],
   "config_flow": true,
   "documentation": "https://github.com/raku306363s/ha-lumos",
+  "issue_tracker": "https://github.com/raku306363s/ha-lumos/issues",
   "iot_class": "cloud_polling",
   "requirements": [],
   "version": "1.0.0",
-  "integration_type": "hub",
-  "quality_scale": "custom"
+  "integration_type": "hub"
 }
